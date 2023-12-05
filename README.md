@@ -8,9 +8,9 @@
 - File Watching Algorithm - written in C++
 - Caching - Faster Builds
 - Image Optimization
-- Minification
-- Bundling
-- Compress
+- Minification of file
+- Bundling file
+- Compress file
 - Consistent Hashing
 - Code Splitting
 - Differential Bundling - support older browsers
